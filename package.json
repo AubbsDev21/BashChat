@@ -12,6 +12,7 @@
   "dependencies": {
     "@pusher/chatkit-server": "^0.12.1",
     "body-parser": "^1.18.3",
-    "cors": "^2.8.4"
+    "cors": "^2.8.4",
+    "prompt": "^1.0.0"
   }
 }
